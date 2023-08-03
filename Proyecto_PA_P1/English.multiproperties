@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MultiProperties xmlns="hu.skzs.multiproperties">
+    <Version>1.2</Version>
+    <Name>en_En</Name>
+    <Description></Description>
+    <Handler>Java Properties Handler</Handler>
+    <Columns>
+        <Key>
+            <Width>200</Width>
+        </Key>
+        <Column>
+            <Name>Values</Name>
+            <Description></Description>
+            <Width>258</Width>
+            <HandlerConfiguration>/Proyecto_PA_P1/src/idiomas/en_En.properties|false|false|false|false|ISO-8859-1</HandlerConfiguration>
+        </Column>
+    </Columns>
+    <Records>
+        <Property>
+            <Name>lbl_bienvenido</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Welcome to Super Tiendas!</Value>
+        </Property>
+        <Property>
+            <Name>btn_login</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Login</Value>
+        </Property>
+        <Property>
+            <Name>lbl_idioma</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Language</Value>
+        </Property>
+        <Property>
+            <Name>lbl_psw</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Forgot your password?</Value>
+        </Property>
+        <Property>
+            <Name>txt_user</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">User</Value>
+        </Property>
+        <Property>
+            <Name>btn_registrar1</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">REGISTER EMPLOYEE</Value>
+        </Property>
+        <Property>
+            <Name>btn_gestionar</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">MANAGE EMPLOYEES</Value>
+        </Property>
+        <Property>
+            <Name>btn_horario</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">ASSIGN SCHEDULES</Value>
+        </Property>
+        <Property>
+            <Name>btn_salir</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">SIGN OFF</Value>
+        </Property>
+        <Property>
+            <Name>btn_registro</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">REGISTER CLIENT</Value>
+        </Property>
+        <Property>
+            <Name>btn_venta</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">SELL PRODUCT</Value>
+        </Property>
+        <Property>
+            <Name>btn_regis_producto</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">PRODUCT REGISTRATION</Value>
+        </Property>
+        <Property>
+            <Name>btn_regis_proveedor</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">SUPPLIER REGISTRATION</Value>
+        </Property>
+        <Property>
+            <Name>btn_cancelar</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Cancel</Value>
+        </Property>
+        <Property>
+            <Name>btn_registrar</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Register</Value>
+        </Property>
+        <Property>
+            <Name>txt_nombres</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Names</Value>
+        </Property>
+        <Property>
+            <Name>txt_apellidos</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Last Names</Value>
+        </Property>
+        <Property>
+            <Name>txt_cedula</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">ID</Value>
+        </Property>
+        <Property>
+            <Name>txt_correo</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">E-mail</Value>
+        </Property>
+        <Property>
+            <Name>txt_telefono1</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Phone</Value>
+        </Property>
+        <Property>
+            <Name>txt_direccion</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Address</Value>
+        </Property>
+        <Property>
+            <Name>lbl_codigo</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Code</Value>
+        </Property>
+        <Property>
+            <Name>lbl_perfil</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Profile</Value>
+        </Property>
+        <Property>
+            <Name>txt_telefono2</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Cellphone</Value>
+        </Property>
+        <Property>
+            <Name>rdbtn_vendedor</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Salesman</Value>
+        </Property>
+        <Property>
+            <Name>rdbtn_bodeguero</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Storekepeer</Value>
+        </Property>
+        <Property>
+            <Name>rdbtn_admin</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Administrator</Value>
+        </Property>
+        <Property>
+            <Name>txt_codigo</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Code</Value>
+        </Property>
+        <Property>
+            <Name>lbl_unidades</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Units</Value>
+        </Property>
+        <Property>
+            <Name>lbl_precio</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Price</Value>
+        </Property>
+        <Property>
+            <Name>lbl_proveedor</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Supplier</Value>
+        </Property>
+        <Property>
+            <Name>txt_Razon</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Business name</Value>
+        </Property>
+        <Property>
+            <Name>txt_telefono</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Phone</Value>
+        </Property>
+        <Property>
+            <Name>txt_email</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Email</Value>
+        </Property>
+        <Property>
+            <Name>lbl_cedula</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">ID</Value>
+        </Property>
+        <Property>
+            <Name>lbl_cliente</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Client</Value>
+        </Property>
+        <Property>
+            <Name>lbl_codigo_producto</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Product's code</Value>
+        </Property>
+        <Property>
+            <Name>lbl_detalles_producto</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Product's info</Value>
+        </Property>
+        <Property>
+            <Name>lbl_cantidad</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Quantity</Value>
+        </Property>
+        <Property>
+            <Name>lbl_carrito</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Shopping cart</Value>
+        </Property>
+        <Property>
+            <Name>lbl_subtotal</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Subtotal</Value>
+        </Property>
+        <Property>
+            <Name>lbl_iva</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">IVA</Value>
+        </Property>
+        <Property>
+            <Name>lbl_mes</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">/ month</Value>
+        </Property>
+        <Property>
+            <Name>lbl_valor</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Amount to be paid</Value>
+        </Property>
+        <Property>
+            <Name>rbtn_efectivo</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Cash</Value>
+        </Property>
+        <Property>
+            <Name>rbtn_corriente</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Current</Value>
+        </Property>
+        <Property>
+            <Name>rbtn_diferido</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Deferred</Value>
+        </Property>
+        <Property>
+            <Name>lbl_formas_de_pago</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Payment Methods</Value>
+        </Property>
+        <Property>
+            <Name>lbl_diferido</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Deferred payment</Value>
+        </Property>
+        <Property>
+            <Name>op1</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Select</Value>
+        </Property>
+        <Property>
+            <Name>op2</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">3 months</Value>
+        </Property>
+        <Property>
+            <Name>op3</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">6 months</Value>
+        </Property>
+        <Property>
+            <Name>btn_eliminar</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Delete</Value>
+        </Property>
+        <Property>
+            <Name>btn_agregar</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Add</Value>
+        </Property>
+        <Property>
+            <Name>btn_buscar</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Search</Value>
+        </Property>
+        <Property>
+            <Name>btn_aceptar</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Accept</Value>
+        </Property>
+        <Property>
+            <Name>lbl_empleado</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Employee</Value>
+        </Property>
+        <Property>
+            <Name>lbl_asignacion</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Schedule assignment</Value>
+        </Property>
+        <Property>
+            <Name>lbl_nocturno</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Night</Value>
+        </Property>
+        <Property>
+            <Name>lbl_vespertino</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Evening</Value>
+        </Property>
+        <Property>
+            <Name>lbl_matutino</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Morning</Value>
+        </Property>
+        <Property>
+            <Name>lbl_turno</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Shift</Value>
+        </Property>
+        <Property>
+            <Name>lbl_dia</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Day</Value>
+        </Property>
+        <Property>
+            <Name>lbl_madrugada</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Early morning</Value>
+        </Property>
+        <Property>
+            <Name>lbl_lunes</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Monday</Value>
+        </Property>
+        <Property>
+            <Name>lbl_martes</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Tuesday</Value>
+        </Property>
+        <Property>
+            <Name>lbl_miercoles</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Wednesday</Value>
+        </Property>
+        <Property>
+            <Name>lbl_jueves</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Thursday</Value>
+        </Property>
+        <Property>
+            <Name>lbl_viernes</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Friday</Value>
+        </Property>
+        <Property>
+            <Name>lbl_usuario</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">User</Value>
+        </Property>
+        <Property>
+            <Name>lblMostrarContrasenas</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Show passwords</Value>
+        </Property>
+        <Property>
+            <Name>lbl_ContrasenaActual</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Current password</Value>
+        </Property>
+        <Property>
+            <Name>lbl_ContrasenaNueva</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">New password</Value>
+        </Property>
+        <Property>
+            <Name>lbl_ConfirmarContrasena</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Confirm password</Value>
+        </Property>
+        <Property>
+            <Name>btn_listar</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">List</Value>
+        </Property>
+        <Property>
+            <Name>lbl_producto</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Selected product</Value>
+        </Property>
+        <Property>
+            <Name>btn_reabastecer</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Restock</Value>
+        </Property>
+        <Property>
+            <Name>lbl_peso</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Weight</Value>
+        </Property>
+        <Property>
+            <Name>btn_pesar</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Weigh</Value>
+        </Property>
+        <Property>
+            <Name>rdbtn_peso</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Weight</Value>
+        </Property>
+        <Property>
+            <Name>rdbtn_unidad</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Unit</Value>
+        </Property>
+        <Property>
+            <Name>btn_descargar</Name>
+            <Disabled>false</Disabled>
+            <MultiLine>false</MultiLine>
+            <Value disabled="false">Download</Value>
+        </Property>
+    </Records>
+</MultiProperties>
